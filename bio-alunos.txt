@@ -5,3 +5,11 @@ Semestre: 7º;
 Bairro: Santa Clara; 
 Se trabalha: Trabalho com Monitoração e Análise de Incidentes; 
 Objetivo: Atuar com Segurança da Informação.
+--------------------------------------------------------------------
+Nome: Sérgio Barbosa Carolo; 
+RA: 823164193; 
+Curso: Ciência da Computação; 
+Semestre: 7º; 
+Bairro: Ayrosa; 
+Se trabalha: Análise de dados; 
+Objetivo: Atuar como cientista de dados.
