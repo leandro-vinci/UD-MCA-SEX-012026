@@ -21,6 +21,9 @@ console.log("C) Estoque atualizado para:", itemColecionador.estoque);
 // D. Imprima todas as propriedades no console.
 console.log("D) Todas as propriedades do objeto:");
 console.log(itemColecionador);
+
+
+
 //Leandro:
 
 let produto = {
