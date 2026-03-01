@@ -69,3 +69,4 @@ console.log("E) Imprimindo todos os elementos:");
 for (let i = 0; i < elementosMagicos.length; i++) {
     console.log(`${i}: ${elementosMagicos[i]}`);
 }
+
